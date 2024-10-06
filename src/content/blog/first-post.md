@@ -1,16 +1,23 @@
 ---
-title: 'First post'
+title: 'Principios de seguridad de la información'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/blog-placeholder-3.jpg'
+pubDate: 'Oct 03 2024'
+heroImage: '/principios_seguridad.jpg'
 ---
+Los principios de la seguridad informática son los fundamentos que guían a los expertos a la hora de proteger los equipos y los sistemas informáticos. La ciberseguridad o seguridad informática es tan importante hoy en día, que debe formar parte de la estrategia empresarial de toda organización. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Casi todos los datos de las compañías se pueden consultar mediante algún dispositivo electrónico, como un ordenador, tablet o móvil, además de que muchos de ellos se almacenan en la nube. Y recordemos que los datos son información y la información es el bien más valioso que existe.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+##### Confidencialidad
+La confidencialidad es uno de los principios de la seguridad informática. Hace referencia a que la información solo debe ser conocida por las personas autorizadas para ello. Es decir, ciertos datos o programas solo pueden ser accesibles para las personas autorizadas para ello. Se busca así que los datos, personales o empresariales, no sean divulgados. Es la base de los principios de la seguridad informática. También se le conoce como principio de privacidad.
+##### Integridad
+Cuando hablamos de integridad en términos informáticos nos referimos a la preservación de los datos. Las organizaciones deben garantizar que estos se guardan en un sitio seguro y que no han sido manipulados por nadie. 
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Es como guardarlos en una cadena de pruebas para asegurar que estas no se han alterado en ningún momento. Garantizando la integridad de la información se consigue demostrar su legitimidad. Si se viola este principio, la empresa sufrirá consecuencias negativas.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+##### Disponibilidad
+La disponibilidad de la información es un principio de la seguridad informática que garantiza que va a estar disponible para las personas autorizadas en cualquier momento que estas la precisen. También implica que, en caso de producirse algún incidente informático, la información puede ser recuperada. O sea, se trata de cumplir con que los datos estén siempre disponibles en todo momento, pero siempre bajo condiciones de seguridad y de recuperabilidad ante un ciberataque.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+##### Autenticidad
+Para controlar que la información de la que dispone la organización es legítima, contamos con el principio de autenticidad. Se trata de otro pilar básico de la ciberseguridad que garantiza que el autor de la información o del documento es auténtico. Asegura a la persona que lo va a consultar en cualquier momento que el creador del mensaje es el que aparece indicado como remitente.
+

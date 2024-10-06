@@ -1,16 +1,133 @@
 ---
-title: 'Second post'
+title: 'Confidencialidad de la información'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+pubDate: 'Oct 04 2024'
+heroImage: '/confidencialidad_inf.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+#### <span style="color: #a31e1e">-Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (México)</span>
+##### Descripción:
+Esta ley establece las bases, principios y procedimientos para garantizar el derecho a la protección de datos personales en posesión de entidades públicas en México. Su objetivo es garantizar que los ciudadanos tengan control sobre sus datos personales y que estos no sean utilizados sin su consentimiento.
+##### Aspectos clave
+- Los sujetos obligados (entidades públicas) deben asegurar que los datos personales se usen solo para los fines establecidos y con el consentimiento del titular.
+- La ley regula la recolección, manejo, almacenamiento y difusión de datos personales.
+##### Impacto 
+Protege la privacidad de los ciudadanos frente al uso indebido de su información por parte del gobierno y otras entidades públicas.
+<!-- <div style="text-align: center;">
+  <img src="/ddos.jpg" style="width: 55vh; height: 40vh;" />
+</div> -->
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+#### <span style="color: #a31e1e">-Ley de Propiedad Industrial (México)</span>
+##### Propósito
+Proteger y regular los derechos sobre la propiedad industrial en México, incluyendo patentes, marcas, diseños industriales, y secretos comerciales.
+##### Áreas Clave
+- **Patentes:** Protege invenciones y mejoras en procesos industriales, asegurando que los inventores tengan derechos exclusivos sobre su uso.
+- **Marcas:** Protege los signos distintivos utilizados en productos o servicios para diferenciarlos en el mercado.
+- **Secretos** Industriales: Incluye la confidencialidad de la información técnica o comercial de valor económico para las empresas.
+##### Relevancia para la confidencialidad
+La ley protege la confidencialidad de los secretos comerciales y de fabricación, lo que es clave para la seguridad de la información en industrias altamente competitivas.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+#### <span style="color: #a31e1e">-Ley Federal de Derechos de Autor (México)</span>
+##### Objetivo
+Salvaguardar los derechos de los creadores de obras literarias, artísticas y científicas, incluyendo software, bases de datos y otros productos digitales.
+<div style="text-align: center;">
+<img src="/derechos_autor.jpg" style="width: 60vh; height: 35vh;" />
+</div>
+<br>
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+##### Confidencialidad
+Esta ley otorga a los autores el derecho exclusivo de controlar la divulgación de sus obras, protegiendo tanto su integridad como su uso no autorizado, lo que está directamente relacionado con la confidencialidad de la información creativa y técnica.
+##### Ejemplo:
+Un desarrollador de software tiene el derecho exclusivo sobre el código que escribe y puede decidir quién puede usar o modificar su obra.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+#### <span style="color: #a31e1e">-Ley Federal de Protección de Datos Personales en Posesión de Particulares</span>
+##### Propósito
+Proteger los datos personales que se encuentran en posesión de personas físicas o morales, tales como empresas privadas.
+##### Principios fundamentales:
+- **Consentimiento:** Los titulares de los datos deben dar su consentimiento explícito para su uso.
+- **Acceso, Rectificación, Cancelación y Oposición (ARCO):** Los ciudadanos tienen derecho a solicitar el acceso, rectificación, cancelación o a oponerse al uso de sus datos personales.
+##### Motivaciones comunes:
+- Financiera (robo de tarjetas de crédito).
+- Política (hacktivismo).
+- Espionaje (robos de propiedad intelectual).
+
+**Importancia:** Asegura que las empresas manejen los datos personales de los clientes de manera confidencial y que tomen medidas para evitar su mal uso o filtración.
+
+#### <span style="color: #a31e1e">-Código Penal Federal (México)</span>
+El Código Penal Federal incluye varios delitos relacionados con la violación de la confidencialidad de la información, como el acceso no autorizado a sistemas informáticos y el uso indebido de información protegida o clasificada.
+##### Artículos Relacionados:
+- **Artículo 211 bis:** Sanciona a quien acceda a sistemas o equipos informáticos sin autorización.
+- **Artículo 210:** Penaliza la divulgación no autorizada de secretos industriales.
+#### <span style="color: #a31e1e">-Ley General de Transparencia y Acceso a la Información Pública</span>
+Esta ley garantizar el acceso a la información pública en posesión de sujetos obligados (entidades gubernamentales), pero respetando la confidencialidad de datos personales y secretos de estado.
+##### Excepciones a la transparencia:
+- Datos que afecten la seguridad nacional.
+- Información confidencial de personas (datos personales).
+
+**Relevancia:** Esta ley busca equilibrar el derecho de acceso a la información pública con la necesidad de proteger la confidencialidad de ciertos datos sensibles.
+
+
+### Criptografía y Técnicas de Cifrado
+<br>
+<div style="text-align: center;">
+<img src="/tecnicas_cifrado.jpg" style="width: 80vh; height: 35vh;" />
+</div>
+<br>
+
+#### <span style="color: #a31e1e">-Criptografía Simétrica</span>
+Es un método de cifrado donde se utiliza la misma clave para cifrar y descifrar la información. Ambas partes (emisor y receptor) deben tener acceso a la misma clave de manera segura.
+##### Ventajas:
+- Alta eficiencia y rapidez en el proceso de cifrado y descifrado.
+##### Desventajas:
+Si la clave es interceptada, todo el sistema de seguridad queda comprometido.
+
+**Ejemplos:** AES (Advanced Encryption Standard) y DES (Data Encryption Standard).
+
+#### <span style="color: #a31e1e">-Criptografía Asimétrica</span>
+Utiliza un par de claves: una clave pública y una clave privada. La clave pública se utiliza para cifrar la información, mientras que la clave privada, que solo el receptor conoce, se utiliza para descifrarla.
+##### Ventajas:
+No es necesario compartir la clave privada, lo que reduce el riesgo de comprometer la seguridad.
+##### Desventajas:
+Más lento en comparación con la criptografía simétrica debido a su complejidad matemática.
+
+**Ejemplo:** RSA (Rivest-Shamir-Adleman), utilizado en la mayoría de las transacciones en línea seguras.
+
+#### <span style="color: #a31e1e">-Cifrado por Bloques y por Flujo</span>
+##### Cifrado por Bloques
+**Descripción:** Divide el texto plano en bloques de un tamaño fijo y aplica el cifrado a cada bloque de datos de manera independiente.
+
+[Ejemplo:] AES (tamaño de bloque de 128 bits).
+<div style="text-align: center;">
+<img src="/cifrado_bloques.jpg" style="width: 70vh; height: 30vh;" />
+</div>
+
+**Ventajas:**
+Alta seguridad al cifrar grandes volúmenes de datos.
+
+**Desventajas:**
+El proceso puede ser más lento, especialmente con grandes cantidades de datos.
+
+##### Cifrado por Flujo
+**Descripción:** Cifra el texto plano de forma continua, bit por bit o byte por byte, usando una clave de flujo que genera una secuencia pseudoaleatoria de bits.
+
+[Ejemplo:] RC4 (Rivest Cipher 4).
+
+<div style="text-align: center;">
+<img src="/cifrado_flujo.jpg" style="width: 70vh; height: 30vh;" />
+</div>
+
+**Ventajas:**
+Más eficiente para el cifrado de datos en tiempo real o de tamaño variable.
+
+**Desventajas:**
+Menos seguro si no se usa correctamente, como ocurrió con vulnerabilidades en RC4.
+
+#### <span style="color: #a31e1e">-Criptoanálisis</span>
+##### Contexto histórico:
+El criptoanálisis es la técnica utilizada para descifrar datos cifrados sin conocer la clave, mediante el análisis de patrones o debilidades en los algoritmos criptográficos.
+
+**Métodos de Ataque:**
+- Ataques por fuerza bruta: Probar todas las combinaciones posibles de claves.
+- Ataques de texto plano conocido: Donde el atacante tiene acceso a un texto cifrado y su correspondiente texto en claro.
+
+**Relevancia:** El criptoanálisis busca mejorar la seguridad al identificar las vulnerabilidades en los algoritmos de cifrado y proponer mejoras.
